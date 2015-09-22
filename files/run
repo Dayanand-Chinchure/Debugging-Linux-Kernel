@@ -1,0 +1,1 @@
+qemu-system-x86_64 --nographic -M pc -no-reboot -redir tcp:17777:127.0.0.1:22  -hda hd.img -net nic -net tap,ifname=tap0,script=no -append "root=/dev/hda1 debug rw console=ttyS0,115200" -s -kernel $1
