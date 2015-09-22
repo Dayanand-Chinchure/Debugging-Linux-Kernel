@@ -1,4 +1,4 @@
-#Debugging-Linux-KernelTo debug the kernel using qemu and gdb.	
+To debug the kernel using qemu and gdb.	
 
 Instructions:
 	1) Read all the instructions and steps before performing any action.
