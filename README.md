@@ -5,7 +5,7 @@ Instructions:
 	2) Make sure you have installed OR downloaded prerequisite mentions below.
 	3) qemu and gdb must be installed.
 	4) Go through the "*Note" to understand steps bit more.
-	5) In case of any doubts and suggestions mail to "d.chinchure@gmail.com"
+	5) In case of any doubts and suggestions mail to "dchinchure@gmail.com"
  
 Prerequisite :
         1) Qemu [no kvm]
