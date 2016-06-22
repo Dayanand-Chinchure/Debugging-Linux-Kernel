@@ -2,6 +2,7 @@ To debug the kernel using qemu and gdb.
 
 -----------------------------------------------------------------------------------
 Instructions:
+	
 	1) Read all the instructions and steps before performing any action.
 
 	2) Make sure you have installed OR downloaded prerequisite mentions below.
@@ -14,7 +15,8 @@ Instructions:
  
 -----------------------------------------------------------------------------------
 Prerequisite :
-        1) Qemu [no kvm]
+        
+	1) Qemu [no kvm]
         
 	2) gdb
         
@@ -27,6 +29,7 @@ Prerequisite :
 -----------------------------------------------------------------------------------
 
 Steps:
+
 
 1) Make sure you have qemu and gdb installed and in working state.
 
