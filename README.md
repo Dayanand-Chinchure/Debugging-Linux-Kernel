@@ -3,19 +3,27 @@ To debug the kernel using qemu and gdb.
 -----------------------------------------------------------------------------------
 Instructions:
 	1) Read all the instructions and steps before performing any action.
+
 	2) Make sure you have installed OR downloaded prerequisite mentions below.
+	
 	3) qemu and gdb must be installed.
+	
 	4) Go through the "*Note" to understand steps bit more.
+	
 	5) In case of any doubts and suggestions mail to "dchinchure@gmail.com"
  
 -----------------------------------------------------------------------------------
 Prerequisite :
         1) Qemu [no kvm]
-        2) gdb
-        3) openvpn
-        4) bridge-utils
-        5) kernel source code (eg. linux-2.6.32.67.tar.xz)	
-	
+        
+	2) gdb
+        
+	3) openvpn
+        
+	4) bridge-utils
+        
+	5) kernel source code (eg. linux-2.6.32.67.tar.xz)
+
 -----------------------------------------------------------------------------------
 
 Steps:
