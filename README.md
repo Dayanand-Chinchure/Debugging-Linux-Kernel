@@ -1,5 +1,6 @@
 To debug the kernel using qemu and gdb.	
 
+-----------------------------------------------------------------------------------
 Instructions:
 	1) Read all the instructions and steps before performing any action.
 	2) Make sure you have installed OR downloaded prerequisite mentions below.
@@ -7,6 +8,7 @@ Instructions:
 	4) Go through the "*Note" to understand steps bit more.
 	5) In case of any doubts and suggestions mail to "dchinchure@gmail.com"
  
+-----------------------------------------------------------------------------------
 Prerequisite :
         1) Qemu [no kvm]
         2) gdb
@@ -14,6 +16,8 @@ Prerequisite :
         4) bridge-utils
         5) kernel source code (eg. linux-2.6.32.67.tar.xz)	
 	
+-----------------------------------------------------------------------------------
+
 Steps:
 
 1) Make sure you have qemu and gdb installed and in working state.
@@ -47,3 +51,5 @@ Steps:
 8) run command in gdb prompt "target remote :1234"
 	
 9) Now you can debug the kernel using qemu and gdb
+
+--------------------------------------------------------------------------------------
